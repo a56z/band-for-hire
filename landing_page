@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <header id="header">
+    <img src="http://streetmusicmap.com/images/news/CityLab_Logo.png" id="header-img" alt="logo">
+    <nav id="nav-bar">
+      <ul>
+        <li>
+      <a class="nav-link" href="#features"> Features </a>
+        </li>
+     <li> <a class="nav-link" href="#howitworks"> How it works </a>
+        </li>
+    <li>  <a class="nav-link" href="#pricing"> Pricing </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  
+  <div class="container">
+
+</div>
+  
+
+  <section id="hero">
+  <h1>Local artists for hire</h1>
+  <form id="form" action="https://www.freecodecamp.com/email-submit">
+    <input name="email" id="email" type="email" placeholder="Enter your email address" required/>
+    <input id="submit" type="submit" value="Get Started" class="btn"></input>
+  </form>
+</section>
+
+
+<div class="container">
+  <section id="features">
+    <div class="grid">
+      <div class="icon">
+       <i class="fa fa-3x fa-headphones"></i> 
+      </div>
+      <div class="desc">
+        <h2>Local Artists</h2>
+        <p>We collaborate with artists worldwide. Sourcing locally, delivering globally.</p>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="icon">
+        <i class="fa fa-3x fa-music"></i>
+      </div>
+
+
+ <div class="desc">
+        <h2>Gig Ready</h2>
+        <p>Connect with artists in your area that are looking forward to rock tonight!</p>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="icon">
+        <i class="fa fa-3x fa-users" aria-hidden="true"></i>
+      </div>
+      <div class="desc">
+        <h2>Happy Crowd</h2>
+        <p>We love variety & good vibes, check out the crowds feedback on previous gigs!</p>
+      </div>
+    </div>
+  </section>
+<section id="howitworks">
+      <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/vAKtNV8KcWg" allowfullscreen></iframe>
+    </section>
+  
+<section id="pricing">
+    <div id="starter">
+      <div class="level">
+        Monthly starter
+      </div>
+      <h3>15% on artist fee</h3>
+      <ol>
+        <li>Up to 5 gigs.</li>
+        <li>Share portfolio.</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+      <button class="btn">Select</button>
+    </div>
+    
+      <div id="veteran">
+      <div class="level">
+        Veteran kit
+      </div>
+      <h3>10% on artist fee</h3>
+      <ol>
+        <li>Up to 15 gigs.</li>
+        <li>Share portfolio.</li>
+        <li>Get discovered </li>               
+        <li>by other artists.</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+      <button class="btn">Select</button>
+    </div>
+  
+    
+ 
+  <div id="legend">
+      <div class="level">
+        Legend
+      </div>
+      <h3>7% on artist fee</h3>
+      <ol>
+        <li>Unlimited gigs.</li>
+        <li>Share portfolio.</li>
+        <li>Get discovered </li>               
+        <li>by other artists.</li>
+        <li>Be featured in</li>
+        <li>weekly reviews.</li>
+      </ol>
+      <button class="btn">Select</button>
+    </div>
+</div>
+  </section>
+
+  <footer>
+    <ul>
+      <li><a href="#">Privacy</a></li>
+      <li><a href="#">Terms</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+      <span>Copyright 2019, CITYLAB</span>
+  </footer>
+</div>
+</div>
+</html>
