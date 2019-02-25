@@ -1,0 +1,126 @@
+<nav id="navbar">
+  <header>About CITYLAB</header>
+  <ul>
+    <a class="nav-link" href=#introduction rel="internal">
+       <li>Introduction</li></a>
+<a class="nav-link" href=#who_we_are rel="internal"><li>Who we are</li></a>
+<a class="nav-link" href=#why_join_us? rel="internal"> <li>Why join us?</li></a>
+<a class="nav-link" href=#success_stories rel="internal"><li>Success stories</li></a>
+    <a class="nav-link" href=#local_artists rel="internal"><li>Local artists</li></a>
+    <a class="nav-link" href=#global_reach rel="internal"><li>Global reach</li></a>
+    <a class="nav-link" href=#diversification rel="internal"><li>Diversification</li></a>
+    <a class="nav-link" href=#global_community rel="internal"><li>Global community</li></a>
+    <a class="nav-link" href=#why_we_started_this rel="internal"><li>Why we started this</li></a> 
+  </ul>
+</nav>
+
+
+<main id="main-doc"> 
+  <section class="main-section">
+      <header id="introduction">
+        Introduction
+      </header>
+    <article>
+    <p>
+      At CITYLAB we want to make it easy for musicians to connect with venues of all sorts. The idea is to to unlock artists' creativity everywhere —by providing opportunity at any time to make a living out of talent and to give venue owners everywhere the opportunity to share with their crowd moments of fun & new vibes. We hope you enjoy the ride!
+    </p>  
+    </article>
+  </section>
+  
+  
+  <section class="main-section">
+      <header id="who_we_are">
+        Who we are
+      </header>
+    <article>
+    <p>
+      We are a group of music enthusiasts and musicians who happen to love travelling.
+    </p>
+      <p>
+        Leaving the corporate world behind, we decided to build something beautiful that allows us to spread our passion for live music and to bring people together. We are a group of friends from different countries and excited to have you visiting our page. Now come and join us!
+      </p>
+    </article>
+  </section>
+  
+  
+  <section>
+      <header id="why_join_us?">
+        Why join us?
+      </header>
+    <article>
+    <p>
+      Become part of the future we envision; where artists cross genres and cultural boundaries, creating ideas that propel society forward; where fans can discover something they never would have otherwise; where bar owners can offer variety they never could have otherwise; where we're all part of a global network, building new connections, sharing new ideas, across cultures. 
+    </p>
+    </article>
+  </section>
+  
+  
+  <section class="main-section">
+      <header id="success_stories">
+        Success stories
+      </header>
+    <article>
+    <p>
+      Find links to success stories in this section once we are online. :)
+    </p>
+    </article>
+  </section>
+  
+  <section class="main-section">
+      <header id="local_artists">
+        Local artists
+      </header>
+    <article>
+    <p>
+      We envision a cultural platform where professional creators can break free of their medium's constraints and where everyone can enjoy an immersive artistic experience that enables us to empathize with each other and to feel part of a greater whole. But to realize this vision, professional creators must be able to earn a fair living doing what they love, where monetization is at the core of a creative proposition and not an afterthought. We care deeply about our creators and our users and we believe CITYLAB is a win-win for both.
+    </p>
+    </article>
+  </section>
+  
+  
+  <section class="main-section">
+      <header id="global_reach">
+        Global reach
+      </header>
+    <article>
+    <p>
+      The old model favored certain gatekeepers. Artists had to be signed to a label. They needed access to a recording studio, and they had to be played on terrestrial radio to achieve success. Today, artists can produce and release their own music on the internet. And you can now get them into your venue. We empower artists to break through whereever they are.
+    </p>
+    </article>
+  </section>
+  
+  
+  <section class="main-section">
+      <header id="diversification">
+        Diversification
+      </header>
+    <article>
+    <p>
+      With access to unprecedented mobility, we're building audiences for every kind of artist at every level of fame and exposing fans to a universe of live gigs. In this new world, music has no borders. CITYLAB enables someone in San Francisco to discover local live bands from Madrid. It links immigrants in Toronto to bands back home in Beijing.
+    </p>
+    </article>
+  </section>
+  
+  
+  <section class="main-section">
+      <header id="global_community">
+        Global community
+      </header>
+    <article>
+    <p>
+      We're working to democratize the industry and connect all of us, across the world, in a shared culture that expands our horizons.
+    </p>
+    </article>
+    </section>
+  
+  
+<section class="main-section">
+    <header id="why_we_started_this">
+      Why we started this
+    </header>
+  <p>
+    Today's creators release their own work and directly make and reach fans. As we evolve, CITYLAB will meet creators where they are and empower them with even more tools to do what they love in their own authentic way, and reach even more people.
+  </p>
+</section>
+
+</main>
